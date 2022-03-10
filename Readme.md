@@ -5,8 +5,9 @@
 </p>
 
 ## MEMBERS
+
 <table>
-     <tr>
+  <tr>
       <td align="center"><a href="https://github.com/DongChan-Lee"><img src="https://avatars.githubusercontent.com/u/54230911?v=4" width="100" height="100"><br /><sub><b>이동찬</b></sub></td>
       <td align="center"><a href="https://github.com/h-albert-lee"><img src="https://avatars.githubusercontent.com/u/88315152?v=4" width="100" height="100"><br /><sub><b>이한울</b></sub></td>
       <td align="center"><a href="https://github.com/gracekelly-1954"><img src="https://avatars.githubusercontent.com/u/88758317?v=4" width="100" height="100"><br /><sub><b>이재성</b></sub></td>
